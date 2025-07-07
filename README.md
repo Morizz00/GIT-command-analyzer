@@ -1,4 +1,4 @@
-#  GIT-command-analyzer
+#  git-commit-analyzer
 
 A terminal-based Git commit statistics tool — powered by Go, enhanced with prittier, and built with Cobra.
 
